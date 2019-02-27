@@ -1,0 +1,53 @@
+Le code informatique est, au niveau de l'histoire humaine, un des plus récents langages ayant déjà ses déclinaisons, simples ou plus complexes à maîtriser. Toutefois, il est surtout reconnu pour son côté pratique, avec une fonction que tout le monde reconnaît : un logiciel roule sans anicroche et répond aux besoins de l'utilisateur.
+
+Cette vision des choses omet la partie artistique du langage. Que ce soit en français, en anglais, en allemand, en arabe ou en japonais, les langues ont toujours été les courroies de transmission de messages et de sentiments par le biais des mots et des syntaxes sous toutes sortes de formes. Cette approche serait-elle le contraire du langage informatique ? 
+
+Du code pour écrire des poèmes
+
+Depuis 2013, la Faculté de littérature, Cultures et Langages de l'Université de Standford organise un concours de poésie appelé le « Code Poetry Slam » dont les entrées pour l'édition 2016 sont déjà terminées. Qu'est-ce qu'un poème codé ? Pour une des organisatrices du concours, cela peut être un texte lu comme un code et qui fonctionne comme programme, une programmation qui génère de la poésie ou simplement une poésie de mots dont lesquels sont intégrés des symboles et chiffres liés à l'art de la programmation. Par exemple, voici une création soumise dans la version 2.0 du concours de Stanford par Oishi Banerjee intitulé « Addiction » (Dépendance) :
+
+void addiction(){
+     int mind = 1;
+     while (true){
+          //what goes around wraps around 
+          //and we climb the peaks to find they touch the abyss
+          mind = mind+1;
+          if (mind<0){
+               break;
+          }
+     }
+}
+
+Évidemment, puisque les langages informatiques sont majoritairement anglophones, les créations et concours sont adressés à des poètes-programmeurs qui maîtrisent la langue anglaise. D'ailleurs, un autre concours de poésie codée a été formé sur la Toile : le Source Code Poetry. Ce concours, contrairement à celui de Standford, est encore plus restrictif. Les participants doivent absolument écrire dans un code Java, C# ou C++ puisque les codes dynamiques permettent trop de libertés. Le tout doit être un programme qui se compile (fonctionne), dont les mots riment et qui doit être cool. Fait intéressant, le concours offre trois prix, dont un appelé « Bend the rules » qui fait entorse aux règles du concours, mais qui offre un résultat trop intéressant pour ne pas être souligné.
+
+Néanmoins, pas besoin de concours pour s'adonner à la poésie du code. N'importe quel codeur avec un peu de sens artistique et d'intérêt pour son langage de programmation préféré peut pondre de courtes ou longues œuvres artistiques comme celui-ci qui a écrit en Python sur la création.
+
+Analogie entre poésie et programmation
+
+L'intérêt de cette nouvelle approche de création littéraire - qui pourrait n'être qu'une façon moderne de se réapproprier un aspect technologique - est sa similarité avec le véritable travail du poète traditionnel. Ces deux formes de création répondent à des codes précis que les auteurs doivent prendre en compte. Un poème percutant ne comporte aucun mot inutile selon ceux qui apprécient le genre. La même chose est affirmée par la communauté de programmeurs qui souligne la beauté d'un code limpide. Il y a un travail de création aussi intense dans les deux disciplines qui se relisent encore et encore pour supprimer le superflu.
+
+D'un point de vue sémantique, il y a quelque chose de très intéressant dans l'utilisation des codes de programmation pour désigner un sentiment. Il suffit de relire le poème de Oishi Banerjee pour voir que la commande « if » qui veut dire « si » a une signification avec le terme « mind », le « <0 » et surtout, le terme break de la ligne suivante. Cela pourrait se traduire par si l'esprit est plus bas que zéro, tout se brise. Des termes de programmation comme « if », « try » et les chiffres peuvent alors donner un sens plus profond à ce qui ne semble qu'un agencement de termes et de numéros.
+
+Le code ne peut qu'être une série de lignes permettant à un programme de fonctionner correctement. Il peut toutefois, entre des mains créatives, créer des petites histoires, des poèmes, des haïkus et bien d'autres types de textes. Une façon de plus de mixer technologie et création littéraire.
+
+
+
+
+
+Illustration : isak55, shutterstock
+
+Références :
+
+"Code Poetry Slam." Stanford University. Consulté le 17 février 2016. http://stanford.edu/~mkagen/codepoetryslam/.
+
+Conrad, David. "Writing Code As Poetry; Poetry As Code." I Programmer - Programming, Reviews and Projects. Dernière mise à jour : 5 janvier 2014. http://www.i-programmer.info/news/200-art/6808-writing-code-as-poetry-poetry-as-code.html.
+
+Dionne, Charles. "Poésie Numérique – Langages Informatiques Et Toute Puissance De La Forme." Poème Sale. Dernière mise à jour : 3 mars 2014. http://poemesale.com/2014/03/03/poesie-numerique-langages-informatiques-et-toute-puissance-de-la-forme/.
+
+Keats, Jonathan. "Code Isn't Just Functional, It's Poetic." WIRED. Dernière mise à jour : 16 avril 2013. http://www.wired.com/2013/04/code/.
+
+Mulligan, Christina. "Programmers Use Code to Develop Poetry." SD Times. Dernière mise à jour : 30 novembre 2015. http://sdtimes.com/programmers-use-code-to-develop-poetry/.
+
+Richard, Claire. "Le code est-il de la poésie ?" Rue89. Dernière mise à jour : 2 janvier 2016. http://rue89.nouvelobs.com/rue89-culture/2016/01/02/code-est-poesie-262496?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook.
+
+Source Code Poetry. Consulté le 17 février 2016. http://www.sourcecodepoetry.com/.
