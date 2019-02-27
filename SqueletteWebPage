@@ -4,6 +4,7 @@
         <title>Basic Web Page</title>
     </head>
     <body>
-Hello World!
+<p>Hello World!</p>
+<p>This fake website is just to complete the Openclassroom Task !!</p>
     </body>
 </html>
